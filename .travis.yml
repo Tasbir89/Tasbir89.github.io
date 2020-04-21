@@ -1,5 +1,5 @@
 # from http://jekyllrb.com/docs/continuous-integration/
-language: ruby
+language: english
 rvm:
 - 2.4.2
 
