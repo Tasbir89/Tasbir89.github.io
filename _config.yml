@@ -7,19 +7,19 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://jekyller.github.io/vitae
+url: http://Tasbir89.github.io
 author: Fábio Madeira
 
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
+baseurl: /
 title: Tasbir Singh's Resume
 name: Tasbir Singh
 email: tasbirghumman@gmail.com
 email_full: tasbirghumman@gmail.com
 website: github.io/sustain
-website_full: https://jekyller.github.io/sustain
+website_full: https://Tasbir89.github.io/sustain
 github: Tasbir89
 twitter: tasbirghumman
 tel: +358465891204
